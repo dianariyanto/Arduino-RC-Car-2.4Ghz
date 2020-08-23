@@ -14,3 +14,6 @@ Bahan - bahan :
 *   Playstation Controller
 
 [PS2x lib by www.billporter.info](http://www.billporter.info/2010/06/05/playstation-2-controller-arduino-library-v1-0/)
+
+
+[![HitCount](http://hits.dwyl.com/dianariyanto/Arduino-RC-Car-24Ghz.svg)](http://hits.dwyl.com/dianariyanto/Arduino-RC-Car-24Ghz)
